@@ -37,7 +37,7 @@ QUERY_PLUGIN:
   fofa:  # fofa 的key配置在上面
     enable: true
   hunter_qax: # 网站 https://hunter.qianxin.com/
-    api_key:5759b8211cd3497211b1a77bbd98032183349e72e28ce183c131c2ad7f5371b1
+    api_key: 5759b8211cd3497211b1a77bbd98032183349e72e28ce183c131c2ad7f5371b1
     page_size: 100
     max_page: 5
     enable: true
@@ -46,21 +46,21 @@ QUERY_PLUGIN:
     auth_key:
     enable: false
   quake_360: # 网站 https://quake.360.cn/
-    quake_token:53636082-981d-4348-bd6f-f3a5b5eb7b8f
+    quake_token: 53636082-981d-4348-bd6f-f3a5b5eb7b8f
     max_size: 10000
     enable: true
   rapiddns:
     enable: true
   securitytrails: # 网站 https://securitytrails.com/
-    api_key:26OFseCDMI2HCoj3twTGDipNn5gGZXeM
+    api_key: 26OFseCDMI2HCoj3twTGDipNn5gGZXeM
     enable: true
   threatminer:
     enable: true
   virustotal: # 网站 https://www.virustotal.com/gui/
-    api_key:152a4f852e3357c8717b06cc7d4e2efd77ba0126e55640948c3aecd4c3910411
+    api_key: 152a4f852e3357c8717b06cc7d4e2efd77ba0126e55640948c3aecd4c3910411
     enable: true
   zoomeye:
-    api_key:1Aff8625-f02a-9e8d1-70c3-b67580c543e
+    api_key: 1Aff8625-f02a-9e8d1-70c3-b67580c543e
     max_page: 2000
     enable: true
 
